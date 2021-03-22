@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bayestools-dev-94721-authRole",
+      "UnauthRoleArn": "arn:aws:iam::707067200571:role/amplify-bayestools-dev-94721-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::707067200571:role/amplify-bayestools-dev-94721-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bayestools-dev-94721-deployment",
+      "UnauthRoleName": "amplify-bayestools-dev-94721-unauthRole",
+      "StackName": "amplify-bayestools-dev-94721",
+      "StackId": "arn:aws:cloudformation:us-east-1:707067200571:stack/amplify-bayestools-dev-94721/21420140-8b15-11eb-88f3-0ae9b001be19",
+      "AmplifyAppId": "d2fm8jh6c35af6"
+    }
+  }
+}
